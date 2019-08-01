@@ -249,7 +249,7 @@ const awesome = [
         locations: ["Holzwickede"],
     },
     {
-        name: "DSGF - Deutsche Servicegesellschaft für Finazdienstleister",
+        name: "DSGF - Deutsche Servicegesellschaft für Finanzdienstleister",
         url: "https://www.dsgf.de/karriere/",
         locations: ["Dortmund"],
     },
